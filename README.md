@@ -2,8 +2,6 @@
 
 Here is what I'm currently working on: 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...graduating from Tech Elevator's Java Bootcamp 
 - 🌱 I’m currently learning ...Vue.js
 - 👯 I’m looking to collaborate on ...Vue.js
