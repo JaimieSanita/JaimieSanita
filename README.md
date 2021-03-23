@@ -2,7 +2,7 @@ Hi there 👋
 
 🔭 I’m currently working on developing a wellness application for coding bootcamp students  
 
-🌱 I’m currently learning Java, Vue.js, JavaScript, HTML, PostgreSql  
+🌱 I’m currently learning Java, Vue.js, JavaScript & PostgreSql  
 
 👯 I’m looking to collaborate on responsive design  
 
@@ -14,5 +14,5 @@ Hi there 👋
 
 😄 Pronouns: She/Her/Hers  
 
-⚡ Fun fact: I climbed Mount Kenya, the second tallest mountain in Africa  
+⚡ Fun fact: I climbed Mount Kenya, the highest mountain in Kenya & the second highest in Africa  
 
