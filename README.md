@@ -1,14 +1,14 @@
 Hi there 👋
 
-🔭 I’m currently working on developing a wellness application for coding bootcamp students  
+🔭 I’m currently working on developing a wellness application for bootcamp students  
 
-🌱 I’m currently learning Java, Vue.js, JavaScript & PostgreSql  
+🌱 I’m currently learning Vue.js  
 
-👯 I’m looking to collaborate on responsive design  
+👯 I’m looking to collaborate on database design
 
-🤔 I’m looking for help with database design  
+🤔 I’m looking for help with JavaScript
 
-💬 Ask me about Vue.js  
+💬 Ask me about Java  
 
 📫 How to reach me: jsanita11@gmail.com  
 
