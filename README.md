@@ -2,11 +2,11 @@ Hi there 👋
 
 🔭 I’m currently working on developing a wellness application for bootcamp students  
 
-🌱 I’m currently learning Vue.js  
+🌱 I’m currently learning Spring & Hibernate for Beginners  
 
-👯 I’m looking to collaborate on database design
+👯 I’m looking to collaborate on web design
 
-🤔 I’m looking for help with JavaScript
+🤔 I’m looking for help with land my first job in tech!
 
 💬 Ask me about Java  
 
@@ -14,5 +14,5 @@ Hi there 👋
 
 😄 Pronouns: She/Her/Hers  
 
-⚡ Fun fact: I climbed Mount Kenya, the highest mountain in Kenya & the second highest in Africa  
+⚡ Fun fact: I climbed Mount Kenya, the highest mountain in Kenya!
 
