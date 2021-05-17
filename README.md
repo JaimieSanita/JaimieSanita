@@ -1,6 +1,6 @@
 Hi there 👋
 
-🔭 I’m currently working on developing a wellness application for bootcamp students  
+🔭 I’m currently on the hunt for my first job in tech! 
 
 🌱 I’m currently learning Spring & Hibernate for Beginners  
 
