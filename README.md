@@ -6,7 +6,7 @@ Hi there 👋
 
 👯 I’m looking to collaborate on web design
 
-🤔 I’m looking for help with land my first job in tech!
+🤔 I’m looking for help landing my first job in tech!
 
 💬 Ask me about Java  
 
