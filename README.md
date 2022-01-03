@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Jaimie!
+# <p align="center"> 👋 Hello World, I'm Jaimie!
 
 🌏 I live in Charlotte, NC
 
