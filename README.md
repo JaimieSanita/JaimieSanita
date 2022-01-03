@@ -14,7 +14,7 @@
 
 ⚡ Fun fact: I climbed Mount Kenya, the highest mountain in Kenya!
 
-<img src="https://user-images.githubusercontent.com/77938209/147964965-55676b9b-4f4a-4900-9202-44bc8d3abbb5.jpg"  align="right" width="300" height="270">
+<img src="https://user-images.githubusercontent.com/77938209/147964965-55676b9b-4f4a-4900-9202-44bc8d3abbb5.jpg"  align="right" width="300" height="275">
 
 ```javascript
 const jaimie = {
