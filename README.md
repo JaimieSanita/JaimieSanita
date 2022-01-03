@@ -14,7 +14,7 @@
 
 ⚡ Fun fact: I climbed Mount Kenya, the highest mountain in Kenya!
 
-<img src="https://user-images.githubusercontent.com/77938209/147964965-55676b9b-4f4a-4900-9202-44bc8d3abbb5.jpg"  align="right" width="300" height="275">
+<img src="https://user-images.githubusercontent.com/77938209/147964965-55676b9b-4f4a-4900-9202-44bc8d3abbb5.jpg"  align="right" width="300" height="300">
 
 ```javascript
 const jaimie = {
@@ -24,7 +24,6 @@ const jaimie = {
     technologies: {
         backEnd: [Spring, Spring Boot, JPA (Hibernate), Tomcat, JDBC, REST],
         frontEnd:  [Angular, Vue.js],
-        
         databases: [MSSQL, PostgreSQL],
         misc: [Git, Jenkins, Jira, Postman, Kadeck, Visual Studio Code]
     },
