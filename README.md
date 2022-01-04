@@ -22,10 +22,9 @@ const jaimie = {
     type: Fullstack,
     code: [Java, SQL, JavaScript, TypeScript, HTML, CSS], 
     technologies: {
-        backEnd: [Spring, Spring Boot, JPA (Hibernate), Tomcat, JDBC, REST],
-        frontEnd:  [Angular, Vue.js],
-        databases: [MSSQL, PostgreSQL],
-        misc: [Git, Jenkins, Jira, Postman, Kadeck, Visual Studio Code]
+        frameworks: [Angular, Vue.js, Spring, Hibernate],
+        tools:  [ Git, Postman, Kadeck, JIRA, IntelliJ, Visual Studio Code, Eclipse],
+        databases: [MS SQL Server, PostgreSQL]
     },
     architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
 };
